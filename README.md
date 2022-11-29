@@ -8,7 +8,7 @@ The requirements were to use HTML, CSS, JavaScript, PHP and SQL to create a full
 ## Screenshots 
 ### Products Page
 ![Products](https://github.com/andrewzw/Movie-Ticket-Website/blob/main/Screenshots/Products.png)
-### Products Page
+### Payment Page
 ![Payment](https://github.com/andrewzw/Movie-Ticket-Website/blob/main/Screenshots/Payment.png)
 ### Receipt Page
 ![Receipt](https://github.com/andrewzw/Movie-Ticket-Website/blob/main/Screenshots/Receipt.png)
