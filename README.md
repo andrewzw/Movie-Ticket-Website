@@ -11,4 +11,4 @@ The requirements were to use HTML, CSS, JavaScript, PHP and SQL to create a full
 ![Receipt](https://github.com/andrewzw/Movie-Ticket-Website/blob/main/Screenshots/Receipt.png)
 ![Manager](https://github.com/andrewzw/Movie-Ticket-Website/blob/main/Screenshots/Manager.png)
 ![ManagerReport](https://github.com/andrewzw/Movie-Ticket-Website/blob/main/Screenshots/ManagerReport.png)
-
+![Database](https://github.com/andrewzw/Movie-Ticket-Website/blob/main/Screenshots/Database.png)
